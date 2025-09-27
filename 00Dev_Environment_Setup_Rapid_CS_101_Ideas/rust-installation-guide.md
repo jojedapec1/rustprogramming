@@ -45,8 +45,7 @@ Debug mode is the default:
 
 ```bash
 # Compile and run in debug mode
-cargo build
-./target/debug/my_project
+c./target/debug/my_project
 
 # Check binary size and info
 stat target/debug/my_project
