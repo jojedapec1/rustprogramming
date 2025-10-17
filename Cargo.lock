@@ -7,5 +7,9 @@ name = "classwork"
 version = "0.1.0"
 
 [[package]]
+name = "classworkparticipation"
+version = "0.1.0"
+
+[[package]]
 name = "rustprogramming"
 version = "0.1.0"
